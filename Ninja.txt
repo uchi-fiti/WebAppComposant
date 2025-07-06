@@ -1,0 +1,5 @@
+prenom::Sasuke;;clan::Uchiha;;chakraNature::Lightning;;puissance::99;;
+prenom::Naruto;;clan::Uzumaki;;chakraNature::Wind;;puissance::100;;
+prenom::Minato;;clan::Namikaze;;chakraNature::Wind;;puissance::122;;
+prenom::Itachi;;clan::Uchiha;;chakraNature::Earth;;puissance::99;;
+prenom::Boruto;;clan::Uzumaki;;chakraNature::all;;puissance::100;;
